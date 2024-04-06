@@ -11,9 +11,9 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 ### Be Learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=HwangDoHyun28)](https://solved.ac/HwangDoHyun28)
-
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical)
 <!--
 **HwangDoHyun28/HwangDoHyun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
