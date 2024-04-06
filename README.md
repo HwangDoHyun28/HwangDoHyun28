@@ -9,6 +9,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 ## Skills
 ### 📖 Being Studied
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat&logo=OpenJDK&logoColor=FFFFFF"/></a>
 
 ### 📖 Be Learning
