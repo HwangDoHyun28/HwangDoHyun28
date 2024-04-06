@@ -5,7 +5,6 @@
 
 - I’m currently working on:
   <br>
-  <br>
   <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical)
