@@ -34,6 +34,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <br>
 
 ### 📖 I'm learning...
+<a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=flat&logo=jekyll&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=FFFFFF"/></a>
