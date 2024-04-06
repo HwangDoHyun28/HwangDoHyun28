@@ -11,6 +11,8 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 ### Be Learning
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=HwangDoHyun28)](https://solved.ac/HwangDoHyun28) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical)
