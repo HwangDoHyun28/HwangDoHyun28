@@ -25,6 +25,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/></a>
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=FFFFFF"/></a>
