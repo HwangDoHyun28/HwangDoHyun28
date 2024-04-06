@@ -1,6 +1,7 @@
 ### 👋 Hi there 
 
 <a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
 
 - I’m currently working on <a href="https://pnucolab.com/" target="_blank">pnucolab</a>
   
