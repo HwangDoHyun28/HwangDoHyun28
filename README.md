@@ -1,6 +1,6 @@
-<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
-<a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com%20-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Welcome%20to%20Dohyun's%20Github!&fontColor=ffffff&fontSize=56&animation=fadeIn)
 
