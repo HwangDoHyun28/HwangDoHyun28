@@ -1,4 +1,5 @@
-<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhwangdohyun9004" target="_blank"><img src="https://img.shields.io/badge/do.hyen28%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/@hwangdohyun9004%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com%20-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
