@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Welcome%20to%20Dohyun's%20Github!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<p align="center">
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Welcome%20to%20Dohyun's%20Github!&fontColor=ffffff&fontSize=56&animation=fadeIn)
+</p>
+
 
 
 
@@ -12,7 +16,6 @@
 <a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com%20-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Welcome%20to%20Dohyun's%20Github!&fontColor=ffffff&fontSize=56&animation=fadeIn)
 
 ### 🍑 Hi there 
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
