@@ -3,8 +3,8 @@
 <a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
 
 ### 👋 Hi there 
-I’m currently working on Computational Omics Laboratory @Pusan National University
- (<a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>)
+I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>
+ (Computational Omics Laboratory @Pusan National University)
 
 ## Skills
 
