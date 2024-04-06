@@ -2,12 +2,13 @@
 <a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
 
-### 👋 Hi there 
+### 🍑 Hi there 
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>
  (Computational Omics Laboratory @Pusan National University)
 
 ## Skills
 ### 📖 Being Studied
+<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/></a>
 
 ### 📖 Be Learning
 
