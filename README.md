@@ -14,8 +14,11 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/svelte-FF3E00?style=flat&logo=svelte&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MATLAB-071D49?style=flat"/></a>
+<br>
 
 ### 📖 Be Learning
+<a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut&theme=radical)](https://github.com/HwangDoHyun28) 
 
