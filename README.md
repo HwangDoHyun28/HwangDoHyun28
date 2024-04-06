@@ -14,6 +14,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/svelte-FF3E00?style=flat&logo=svelte&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MATLAB-071D49?style=flat"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=FFFFFF"/></a>
 <br>
 
 ### 📖 Be Learning
