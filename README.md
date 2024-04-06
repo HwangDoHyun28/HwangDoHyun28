@@ -20,6 +20,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/starUML-5C2D91?style=flat"/></a>
 <br>
+<a target="_blank"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF"/></a>
