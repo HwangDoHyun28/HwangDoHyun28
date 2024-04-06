@@ -48,6 +48,8 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 ![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut&theme=apprentice)](https://github.com/HwangDoHyun28) 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&theme=apprentice&show_icons=true)
 
 <!--
