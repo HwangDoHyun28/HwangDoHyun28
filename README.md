@@ -48,9 +48,9 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 ![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut&theme=great-gatsby)](https://github.com/HwangDoHyun28) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut&theme=vision-friendly-dark)](https://github.com/HwangDoHyun28) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&theme=great-gatsby&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&theme=vision-friendly-dark&show_icons=true)
 
 <!--
 **HwangDoHyun28/HwangDoHyun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
