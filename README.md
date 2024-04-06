@@ -44,10 +44,6 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=FFFFFF"/></a>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut&theme=radical)](https://github.com/HwangDoHyun28) 
-
-![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut&theme=vision-friendly-dark)](https://github.com/HwangDoHyun28) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&theme=vision-friendly-dark&show_icons=true)
