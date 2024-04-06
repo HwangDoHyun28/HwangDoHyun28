@@ -5,7 +5,9 @@
 <a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 - I’m currently working on <a href="https://pnucolab.com/" target="_blank">pnucolab</a>
-  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical)
+
 <!--
 **HwangDoHyun28/HwangDoHyun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
