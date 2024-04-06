@@ -4,7 +4,7 @@
 
 ### 👋 Hi there 
 I’m currently working on Computational Omics Laboratory @Pusan National University
-  <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>
+ (<a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>)
 
 ## Skills
 
