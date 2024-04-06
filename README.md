@@ -30,10 +30,10 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/clipstudio-A8B9CC?style=flat"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a>
-
 <br>
 
 ### 📖 I'm learning...
+<a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=flat&logo=jekyll&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=FFFFFF"/></a>
