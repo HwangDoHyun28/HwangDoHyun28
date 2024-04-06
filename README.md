@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Dohyun's%20Github!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Dohyun's%20Github!&fontSize=60&animation=fadeIn)
 
 <a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
