@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Welcome%20to%20Dohyun's%20Github!&fontColor=ffffff&fontSize=56&animation=fadeIn)
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Welcome%20to%20Dohyun's%20Github!&fontColor=ffffff&fontSize=56&animation=fadeIn" /></a>
 </p>
 
 
