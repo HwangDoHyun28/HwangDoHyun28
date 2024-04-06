@@ -15,6 +15,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MATLAB-071D49?style=flat"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=FFFFFF"/></a>
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"/></a>
