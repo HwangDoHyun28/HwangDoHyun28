@@ -7,7 +7,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
  (Computational Omics Laboratory @Pusan National University)
 
 ## Skills
-### 📖 Being Studied
+### 📖 I learned...
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat&logo=OpenJDK&logoColor=FFFFFF"/></a>
@@ -17,7 +17,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=FFFFFF"/></a>
 <br>
 
-### 📖 Be Learning
+### 📖 I'm learning...
 <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=FFFFFF"/></a>
