@@ -37,7 +37,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a>
 <br>
 
-### 📖 I'm learning...
+### 📖 Currently Studying & Interested in...
 <a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=flat&logo=jekyll&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
