@@ -1,6 +1,6 @@
+<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com-03C75A?style=flat&logo=Naver&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 
 ### 👋 Hi there 
 I’m currently working on
