@@ -7,6 +7,9 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
  (Computational Omics Laboratory @Pusan National University)
 
 ## Skills
+### Being Studied
+
+### Be Learning
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&show_icons=true&theme=radical)
 
