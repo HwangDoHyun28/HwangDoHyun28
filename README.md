@@ -26,6 +26,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/clipstudio-A8B9CC?style=flat"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a>
 
 <br>
