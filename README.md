@@ -6,7 +6,7 @@
 
 ### 🍑 Hi there 
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>
- (Computational Omics Laboratory @Pusan National University)
+ (Computational Omics Laboratory @Pusan National University) - MSc Candidate
 
 ## Skills
 ### 📖 I learned...
