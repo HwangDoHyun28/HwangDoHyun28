@@ -11,12 +11,12 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat&logo=OpenJDK&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/svelte-FF3E00?style=flat&logo=svelte&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MATLAB-071D49?style=flat"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=FFFFFF"/></a>
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"/></a>
