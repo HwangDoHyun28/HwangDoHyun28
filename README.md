@@ -21,6 +21,8 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=FFFFFF"/></a>
+
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a>
 
