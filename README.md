@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/HwangDoHyun28">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Dohyun Hwang" /></a>
+</p>
+
+
+
+
 <a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhwangdohyun9004" target="_blank"><img src="https://img.shields.io/badge/@hwangdohyun9004%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
