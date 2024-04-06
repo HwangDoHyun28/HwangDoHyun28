@@ -21,9 +21,9 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF"/></a>
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=FFFFFF"/></a>
