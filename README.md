@@ -23,26 +23,26 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/starUML-5C2D91?style=for-the-badge"/></a>
 <br>
-<a target="_blank"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/anaconda-44A833?style=v&logo=anaconda&logoColor=FFFFFF"/></a>
 <br>
-<a target="_blank"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/clipstudio-A8B9CC?style=flat"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/clipstudio-A8B9CC?style=for-the-badge"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a>
 <br>
 
 ### 📖 Currently Studying & Interested in...
-<a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=flat&logo=jekyll&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&theme=rose_pine&show_icons=true)
