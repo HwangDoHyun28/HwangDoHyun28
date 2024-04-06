@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Welcome%20to%20Dohyun's%20Github!&fontColor=ffffff&fontSize=56&animation=fadeIn)
 
 ### 🍑 Hi there 
-I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/pnucolab-F9AB00?style=flat"/></a>
+I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
  (Computational Omics Laboratory @Pusan National University) - MSc Candidate
 
 ## Skills
