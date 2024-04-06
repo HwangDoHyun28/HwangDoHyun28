@@ -11,17 +11,17 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 ## Skills
 ### 📖 I learned...
-<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat&logo=OpenJDK&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/svelte-FF3E00?style=flat&logo=svelte&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/MATLAB-071D49?style=flat"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/starUML-5C2D91?style=flat"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MATLAB-071D49?style=for-the-badge"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/starUML-5C2D91?style=for-the-badge"/></a>
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=FFFFFF"/></a>
