@@ -44,12 +44,12 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=FFFFFF"/></a>
 <br>
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=rose_pine)](https://github.com/HwangDoHyun28/HwangDoHyun28.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=rose_pine&show_owner=true)](https://github.com/new-genes/new-genes.github.io)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&theme=rose_pine&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&layout=donut&theme=rose_pine)](https://github.com/HwangDoHyun28) 
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=rose_pine)](https://github.com/HwangDoHyun28/HwangDoHyun28.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=rose_pine&show_owner=true)](https://github.com/new-genes/new-genes.github.io)
 
 <!--
 **HwangDoHyun28/HwangDoHyun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
