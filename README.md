@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things📝;Welcome%20to%20My%20Github!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things📝;Welcome%20to%20🌈⭐%20Dohyun's%20Github!%20⭐🌈&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
 </p>
 <p align="center">
    <h3 align="center">* * *</h3>
