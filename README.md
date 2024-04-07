@@ -27,11 +27,11 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 <details> 
   <summary><h2>🛠️ My Favorite Tools & Languages</h2></summary>
     <h3>📖 I learned...</h3>
-    <img src="https://skillicons.dev/icons?i=py,pycharm,js,java,eclipse,html,css,svelte,r,matlab,sass,cs,kotlin,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,sass,cs,kotlin,mysql" />
     <br>
-    <img src="https://skillicons.dev/icons?i=npm,yarn,tailwind,opencv,pytorch,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=powershell,npm,yarn,linux,ubuntu,anaconda,opencv,pytorch,sklearn,tensorflow,tailwind,gcp" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,vscode,linux,ubuntu,anaconda,androidstudio,gcp,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,vscode,androidstudio,pycharm,eclipse" />
     <br>
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,sketchup,svg,notion,stackoverflow" />
     
