@@ -26,7 +26,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 <br>
 <br>
 <details> 
-  <summary><h2>🛠️ My Favorite Tools & Languages</h2></summary>
+  <summary><h2>🛠️ My Tools & Languages</h2></summary>
     <h3>📖 I learned...</h3>
     <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,sass,cs,kotlin,mysql,postgres" />
     <br>
