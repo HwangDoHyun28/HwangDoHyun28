@@ -25,8 +25,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 
 <details> 
-  <summary><h2>🛠️ My![not-a-bug-a-feature](https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/30e5d210-d5a0-4422-ba3b-b4e7daf8f353)
- Favorite Tools</h2></summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
     <h3>📖 I learned...</h3>
    <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
