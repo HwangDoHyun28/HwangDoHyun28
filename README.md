@@ -102,10 +102,10 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🏆 My GitHub Awards</h2></summary>
   <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C,-B"/>      </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C"/></a>
  </p>
 </details>
 
