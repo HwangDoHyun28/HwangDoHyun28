@@ -22,7 +22,7 @@
 <h2>🍑 Hi there</h2>
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
  (Computational Omics Laboratory in Pusan National University) - MSc Candidate
-
+<br>
 <br>
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
