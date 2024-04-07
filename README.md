@@ -21,6 +21,7 @@
 
 ------------
 <h2>🍑 Hi there</h2>
+<a href="https://github.com/HwangDoHyun28/HwangDoHyun28.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
  (Computational Omics Laboratory in Pusan National University) - MSc Candidate
 <br>
@@ -115,7 +116,6 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/HwangDoHyun28/HwangDoHyun28.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/new-genes/new-genes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/pjb7687/byte-of-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pjb7687&repo=byte-of-python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/HwangDoHyun28/miniDrone_narsha"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=miniDrone_narsha&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
