@@ -27,15 +27,15 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 <details> 
   <summary><h2>🛠️ My Favorite Tools & Languages</h2></summary>
     <h3>📖 I learned...</h3>
-    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,sass,cs,kotlin,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,sass,cs,kotlin,mysql,postgres" />
     <br>
-    <img src="https://skillicons.dev/icons?i=powershell,npm,yarn,linux,ubuntu,anaconda,opencv,pytorch,sklearn,tensorflow,tailwind,gcp" />
+    <img src="https://skillicons.dev/icons?i=powershell,npm,yarn,bash,linux,ubuntu,anaconda,opencv,pytorch,sklearn,tensorflow,tailwind,gcp" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,vscode,androidstudio,pycharm,eclipse" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,vscode,androidstudio,pycharm,eclipse,arduino" />
     <br>
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,sketchup,svg,notion,stackoverflow" />
     
-    <!-- 
+<!-- 
    <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF"/></a>
@@ -62,7 +62,9 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
    <a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a>
    <br>
     -->
+    
    <h3>👨‍💻 Currently Studying & Interested in...</h3>
+   <img src="https://skillicons.dev/icons?i=angular,autocad,aws,babel,blender,bootstrap,c,cpp,django,docker,dotnet,fastapi,flask,flutter,htmx,jquery,kubernetes,mongodb,nodejs,perl,pkl,pnpm,raspberrypi,react,redhat,ruby,rust,ts,vim,vue" />
     <!--
    <a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF"/></a>
