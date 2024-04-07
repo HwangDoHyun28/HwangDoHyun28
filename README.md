@@ -27,6 +27,8 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
     <h3>📖 I learned...</h3>
+    [![My Skills](https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,cs,mysql)](https://skillicons.dev)
+    <!-- 
    <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF"/></a>
@@ -52,13 +54,15 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
    <a target="_blank"><img src="https://img.shields.io/badge/clipstudio-A8B9CC?style=for-the-badge"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a>
    <br>
-
+    -->
    <h3>👨‍💻 Currently Studying & Interested in...</h3>
+    <!--
    <a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
+    -->
 </details>   
 <details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
