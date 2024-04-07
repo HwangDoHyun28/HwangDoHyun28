@@ -26,7 +26,7 @@ Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/" t
 Visit my portfolio website! 
 <br>➡ <div style="margin-top: 10px;">💎<a href="https://hwangdohyun28.github.io/" target="_blank"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge"/></a>💎</div>
 
-Visit my portfolio website! ➡ <p>💎<a href="https://hwangdohyun28.github.io/" target="_blank"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io"></a>💎</p>
+Visit my portfolio website! <p>➡ 💎<a href="https://hwangdohyun28.github.io/" target="_blank"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io"></a>💎</p>
 <br>
 <br>
 <!--
