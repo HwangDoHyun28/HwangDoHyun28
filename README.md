@@ -1,4 +1,3 @@
-✧/ᐠ-ꞈ-ᐟ\
 <p align="center">
    <h3 align="center">✧/ᐠ-ꞈ-ᐟ\</h3>
 </p>
