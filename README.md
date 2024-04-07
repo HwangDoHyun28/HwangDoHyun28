@@ -1,3 +1,5 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="204.12501525878906" height="35" viewBox="0 0 204.12501525878906 35"><rect width="102.45313262939453" height="35" fill="#ffc143"/><rect x="102.45313262939453" width="101.67188262939453" height="35" fill="#f7b019"/><text x="51.226566314697266" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">NOT A BUG</text><text x="153.2890739440918" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" letter-spacing="2">A FEATURE</text></svg>
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈%20Dohyun's%20Github%20🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
 </p>
