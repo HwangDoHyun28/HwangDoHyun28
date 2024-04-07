@@ -1,4 +1,4 @@
-![not-a-bug-a-feature](https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/03e2feb6-87b3-4ecb-9602-b99496cce8c6)<p align="center">
+<p align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈%20Dohyun's%20Github%20🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
 </p>
 
