@@ -117,7 +117,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
   <a href="https://github.com/HwangDoHyun28?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=react&rank=-C,-B"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=react&rank=-SECRET,-C,-B"/></a>
   
 https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=radical
 
