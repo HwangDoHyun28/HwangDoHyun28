@@ -1,4 +1,4 @@
-![approved-by-myself](https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/1e05357f-8a7a-486c-a4c5-63dd72bae4a6)<p align="center">
+<p align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈%20Dohyun's%20Github%20🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
 </p>
 
@@ -15,8 +15,7 @@
     <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
     <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-responsibility.svg">
     <img height="33.9px" src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg">
-    <img height="33.9px" src="https://forthebadge.com?primaryBGColor=%239c58f0&primaryTextColor=%23FFFFFF&secondaryBGColor=%238726f4&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=approved+by&secondaryLabel=myself&tertiaryLabel=&panels=2#/generator">
-    <svg xmlns="http://www.w3.org/2000/svg" width="196.42191314697266" height="35" viewBox="0 0 196.42191314697266 35"><rect width="120.0312728881836" height="35" fill="#9c58f0"/><rect x="120.0312728881836" width="76.39064025878906" height="35" fill="#8726f4"/><text x="60.0156364440918" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">APPROVED BY</text><text x="158.22659301757812" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" letter-spacing="2">MYSELF</text></svg>
+    <img height="33.9px" src="https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/1e05357f-8a7a-486c-a4c5-63dd72bae4a6">
 </p>
 
 <h2>🍑 Hi there</h2>
