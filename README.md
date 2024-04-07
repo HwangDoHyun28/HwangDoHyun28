@@ -81,6 +81,19 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dohyun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HwangDoHyun28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/HwangDoHyun28/HwangDoHyun28.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/new-genes/new-genes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=rose_pine)](https://github.com/HwangDoHyun28/HwangDoHyun28.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=rose_pine&show_owner=true)](https://github.com/new-genes/new-genes.github.io)
