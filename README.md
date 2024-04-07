@@ -27,6 +27,8 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 <details> 
   <summary><h2>🛠️ My Favorite Tools & Languages</h2></summary>
     <h3>📖 I learned...</h3>
+    <img src="https://skillicons.dev/icons?i=py,pycharm,js,java,html,css,svelte,r,matlab,cs,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,cs,mysql" />
     <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,cs,mysql" />
     <!-- 
    <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
