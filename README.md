@@ -20,7 +20,7 @@
 </p>
 
 <h2>🍑 Hi there</h2>
-I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
+I’m currently working on <a href="https://pnucolab.com/">PNUCOLAB</a>
  (Computational Omics Laboratory @Pusan National University) - MSc Candidate
 
 
