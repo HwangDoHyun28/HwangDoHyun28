@@ -107,13 +107,11 @@ I’m currently working on ⭐<a href="https://pnucolab.com/" target="_blank"><i
 
   <a href="https://github.com/ashutosh0071/github-readme-activity-graph"><img alt="Dohyun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HwangDoHyun28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-</details>
-
-<details> 
-  <summary><h2>🏆 My GitHub Awards</h2></summary>
+<h3>🏆 My GitHub Awards</h3>
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C"/></a>
  </p>
+
 </details>
 
 <details> 
