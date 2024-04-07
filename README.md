@@ -101,6 +101,14 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
   <a href="https://github.com/ashutosh0071/github-readme-activity-graph"><img alt="Dohyun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HwangDoHyun28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+
+<details> 
+  <summary><h2>🏆 My GitHub Awards</h2></summary>
+  <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C,-B"/>      </a>
+ </p>
+</details>
+
 <details> 
   <summary><h2>📘 My Projects</h2></summary>
 
@@ -115,16 +123,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
   <a href="https://github.com/HwangDoHyun28/EX4U"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=EX4U&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
   <a href="https://github.com/HwangDoHyun28?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-
-<details> 
-  <summary><h2>📘 My Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C,-B"/>      </a>
- </p>
-</details>
-  
+</details>  
 
 <!--
 **HwangDoHyun28/HwangDoHyun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
