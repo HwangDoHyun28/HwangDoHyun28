@@ -78,7 +78,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HwangDoHyun28&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dohyun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HwangDoHyun28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh0071/github-readme-activity-graph"><img alt="Dohyun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HwangDoHyun28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 <details open> 
@@ -91,7 +91,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
     <a href="https://github.com/new-genes/new-genes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/HwangDoHyun28?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <!--
