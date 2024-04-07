@@ -24,11 +24,12 @@
 Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/">hwangdohyun28.github.io</a>💎
 -->
 Visit my portfolio website! ➡ 💎<div style="margin-top: 10px;"><a href="https://hwangdohyun28.github.io/"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge"/></a></div>💎
-Visit my portfolio website! ➡ 💎<div style="margin-top: 10px;"><a href="https://hwangdohyun28.github.io/"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge"/></a></div>💎
 
-Visit my portfolio website! ➡ 💎<span style="display: inline-block; margin-top: 10px;">
-  [![hwangdohyun28.github.io](https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge)](https://hwangdohyun28.github.io/)
-</span>💎
+Visit my portfolio website! ➡ 💎<p align="center">
+  <a href="https://hwangdohyun28.github.io/">
+    <img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io">
+  </a>
+</p>💎
 <br>
 <br>
 <!--
