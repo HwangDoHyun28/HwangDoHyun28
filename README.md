@@ -10,7 +10,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Welcome%20to%20Dohyun's%20Github!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
+<p align="center">
+   <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
+   <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
+   <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+   <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
+   <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
+</p>
+ 
 ### 🍑 Hi there 
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
  (Computational Omics Laboratory @Pusan National University) - MSc Candidate
