@@ -13,11 +13,13 @@
 <p align="center">
     <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
     <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
+    <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
+    
     <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-responsibility.svg">
     <img height="33.9px" src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg">
     <img height="33.9px" src="https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/1e05357f-8a7a-486c-a4c5-63dd72bae4a6">
 </p>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="204.12501525878906" height="35" viewBox="0 0 204.12501525878906 35"><rect width="102.45313262939453" height="35" fill="#ffc143"/><rect x="102.45313262939453" width="101.67188262939453" height="35" fill="#f7b019"/><text x="51.226566314697266" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">NOT A BUG</text><text x="153.2890739440918" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" letter-spacing="2">A FEATURE</text></svg>
 <h2>🍑 Hi there</h2>
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
  (Computational Omics Laboratory @Pusan National University) - MSc Candidate
