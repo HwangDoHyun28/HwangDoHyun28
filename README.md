@@ -64,8 +64,15 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
     -->
     
    <h3>👨‍💻 Currently Studying & Interested in...</h3>
-   <img src="https://skillicons.dev/icons?i=angular,autocad,aws,babel,blender,bootstrap,c,cpp,django,docker,dotnet,fastapi,flask,flutter,htmx,jquery,kubernetes,mongodb,nodejs,perl,pkl,pnpm,raspberrypi,react,redhat,ruby,rust,ts,vim,vue" />
-    <!--
+    <img src="https://skillicons.dev/icons?i=angular,c,cpp,django,css,fastapi,htmx,jquery,mongodb,perl,react,ruby,rust,ts,vue" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=aws,babel,bootstrap,bash,docker,dotnet,docker,flask,flutter,kubernetes,nodejs,pkl,pnpm,redhat,vim" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=autocad,blender" />
+    
+     <!--
    <a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/></a>
