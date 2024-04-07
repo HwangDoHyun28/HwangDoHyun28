@@ -101,7 +101,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
   <a href="https://github.com/ashutosh0071/github-readme-activity-graph"><img alt="Dohyun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HwangDoHyun28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-<details open> 
+<details> 
   <summary><h2>📘 My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
