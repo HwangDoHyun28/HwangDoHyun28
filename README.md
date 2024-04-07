@@ -117,7 +117,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc C
 </details>
 
 <details> 
-  <summary><h2>📘 My Projects</h2></summary>
+  <summary><h2>✨ My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
