@@ -1,4 +1,4 @@
-<p align="center">
+![not-a-bug-a-feature](https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/03e2feb6-87b3-4ecb-9602-b99496cce8c6)<p align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈%20Dohyun's%20Github%20🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
 </p>
 
@@ -13,14 +13,11 @@
 <p align="center">
     <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
     <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
-    <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
+    <img height="33.9px" src="https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/e6dfb5b4-82dd-4d6b-b0c0-0ef9f9bb61b7">
     <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-responsibility.svg">
     <img height="33.9px" src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg">
     <img height="33.9px" src="https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/1e05357f-8a7a-486c-a4c5-63dd72bae4a6">
 </p>
-<svg xmlns="http://www.w3.org/2000/svg" width="204.12501525878906" height="35" viewBox="0 0 204.12501525878906 35"><rect width="102.45313262939453" height="35" fill="#ffc143"/><rect x="102.45313262939453" width="101.67188262939453" height="35" fill="#f7b019"/><text x="51.226566314697266" y="21.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">NOT A BUG</text><text x="153.2890739440918" y="21.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" letter-spacing="2">A FEATURE</text></svg>
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDQuMTI1MDE1MjU4Nzg5MDYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAyMDQuMTI1MDE1MjU4Nzg5MDYgMzUiPjxyZWN0IHdpZHRoPSIxMDIuNDUzMTMyNjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiNmZmMxNDMiLz48cmVjdCB4PSIxMDIuNDUzMTMyNjI5Mzk0NTMiIHdpZHRoPSIxMDEuNjcxODgyNjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiNmN2IwMTkiLz48dGV4dCB4PSI1MS4yMjY1NjYzMTQ2OTcyNjYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPk5PVCBBIEJVRzwvdGV4dD48dGV4dCB4PSIxNTMuMjg5MDczOTQ0MDkxOCIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiPkEgRkVBVFVSRTwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
-https://forthebadge.com?primaryBGColor=%23ffc143&primaryTextColor=%23FFFFFF&secondaryBGColor=%23f7b019&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=NOT+A+BUG&secondaryLabel=A+FEATURE&tertiaryLabel=&panels=2#/generator
 
 <h2>🍑 Hi there</h2>
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
