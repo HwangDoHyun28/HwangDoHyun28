@@ -15,7 +15,7 @@
    <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
    <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
    <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
-   <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
+   <img height="33.9px" src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg">
 </p>
  
 ### 🍑 Hi there 
