@@ -58,7 +58,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
    <a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
 </details>   
-<details> 
+<details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -82,7 +82,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 </details>
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -93,16 +93,6 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=rose_pine)](https://github.com/HwangDoHyun28/HwangDoHyun28.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=rose_pine&show_owner=true)](https://github.com/new-genes/new-genes.github.io)
-
-<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhwangdohyun9004" target="_blank"><img src="https://img.shields.io/badge/@hwangdohyun9004%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com%20-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-
 
 <!--
 **HwangDoHyun28/HwangDoHyun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
