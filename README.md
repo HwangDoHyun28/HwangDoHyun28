@@ -5,7 +5,7 @@
 
 ------------
 <p align="center">
-   ***
+   <h3>***</h3>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
