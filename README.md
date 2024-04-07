@@ -111,7 +111,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc C
 
 <h3>🏆 My GitHub Awards</h3>
   <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&rank=-C"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C"/></a>
  </p>
 
 </details>
