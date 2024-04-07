@@ -27,9 +27,10 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 <details> 
   <summary><h2>🛠️ My Favorite Tools & Languages</h2></summary>
     <h3>📖 I learned...</h3>
-    <img src="https://skillicons.dev/icons?i=py,pycharm,js,java,html,css,svelte,r,matlab,cs,mysql" />
-    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,cs,mysql" />
-    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,svelte,r,matlab,cs,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,pycharm,js,java,eclipse,html,css,svelte,r,matlab,sass,cs,kotlin,mysql" />
+    <img src="https://skillicons.dev/icons?i=npm,yarn,tailwind,opencv,pytorch,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,vscode,linux,ubuntu,anaconda,androidstudio,gcp,powershell" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,sketchup,svg,notion,stackoverflow" />
     <!-- 
    <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
