@@ -69,14 +69,13 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
     <img src="https://skillicons.dev/icons?i=aws,babel,bootstrap,bash,docker,dotnet,flask,flutter,kubernetes,nodejs,pkl,pnpm,raspberrypi,redhat,vim" />
     <br>
     <img src="https://skillicons.dev/icons?i=autocad,blender" />
-    
-     <!--
+<!--
    <a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
-    -->
+-->
 </details>   
 <details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
