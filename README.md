@@ -51,16 +51,13 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
    <a target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a>
    <br>
 
+   <h3>👨‍💻 Currently Studying & Interested in...</h3>
+   <a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/></a>
+   <a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF"/></a>
+   <a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/></a>
+   <a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
+   <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
 </details>   
-## Skills   
-### 📖 I learned...
-
-### 📖 Currently Studying & Interested in...
-<a target="_blank"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangDoHyun28&theme=rose_pine&show_icons=true)
