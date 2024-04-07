@@ -11,12 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Welcome%20to%20Dohyun's%20Github!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhwangdohyun9004" target="_blank"><img src="https://img.shields.io/badge/@hwangdohyun9004%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com%20-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-
-
 ### 🍑 Hi there 
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
  (Computational Omics Laboratory @Pusan National University) - MSc Candidate
@@ -66,6 +60,12 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=rose_pine)](https://github.com/HwangDoHyun28/HwangDoHyun28.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-genes&repo=new-genes.github.io&theme=rose_pine&show_owner=true)](https://github.com/new-genes/new-genes.github.io)
+
+<a href="https://www.instagram.com/do.hyen28/" target="_blank"><img src="https://img.shields.io/badge/do.hyen28%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhwangdohyun9004" target="_blank"><img src="https://img.shields.io/badge/@hwangdohyun9004%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="hdh1028@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hdh1028@pusan.ac.kr%20-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="hdh1028@naver.com" target="_blank"><img src="https://img.shields.io/badge/hdh1028@naver.com%20-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+
 
 <!--
 **HwangDoHyun28/HwangDoHyun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
