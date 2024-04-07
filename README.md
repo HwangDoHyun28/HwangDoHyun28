@@ -24,8 +24,7 @@
 Come visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/">hwangdohyun28.github.io</a>💎
 <br>
 <br>
-I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
- (Computational Omics Laboratory in Pusan National University) - MSc Candidate
+I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc Candidate
 <br>
 <br>
 <details> 
