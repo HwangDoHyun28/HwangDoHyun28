@@ -16,6 +16,7 @@
     <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-responsibility.svg">
     <img height="33.9px" src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg">
     <img height="33.9px" src="https://forthebadge.com?primaryBGColor=%239c58f0&primaryTextColor=%23FFFFFF&secondaryBGColor=%238726f4&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=approved+by&secondaryLabel=myself&tertiaryLabel=&panels=2#/generator">
+    [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTYuNDIxOTEzMTQ2OTcyNjYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxOTYuNDIxOTEzMTQ2OTcyNjYgMzUiPjxyZWN0IHdpZHRoPSIxMjAuMDMxMjcyODg4MTgzNiIgaGVpZ2h0PSIzNSIgZmlsbD0iIzljNThmMCIvPjxyZWN0IHg9IjEyMC4wMzEyNzI4ODgxODM2IiB3aWR0aD0iNzYuMzkwNjQwMjU4Nzg5MDYiIGhlaWdodD0iMzUiIGZpbGw9IiM4NzI2ZjQiLz48dGV4dCB4PSI2MC4wMTU2MzY0NDQwOTE4IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5BUFBST1ZFRCBCWTwvdGV4dD48dGV4dCB4PSIxNTguMjI2NTkzMDE3NTc4MTIiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj5NWVNFTEY8L3RleHQ+PC9zdmc+)](https://forthebadge.com)
 </p>
 
 <h2>🍑 Hi there</h2>
