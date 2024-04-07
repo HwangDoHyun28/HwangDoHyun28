@@ -121,7 +121,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 <details> 
   <summary><h2>📘 My Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&rank=-C,-B"/>      </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C,-B"/>      </a>
  </p>
 </details>
   
