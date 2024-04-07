@@ -21,7 +21,7 @@
 
 ------------
 <h2>🍑 Hi there!</h2>
-Come visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/">hwangdohyun28.github.io</a>💎
+Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/">hwangdohyun28.github.io</a>💎
 <br>
 <br>
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc Candidate
