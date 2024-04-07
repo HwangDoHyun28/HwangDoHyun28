@@ -4,7 +4,9 @@
 </p>
 
 ------------
-
+<p align="center">
+   ***
+</p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,8 +18,8 @@
    <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-responsibility.svg">
    <img height="33.9px" src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg">
 </p>
- 
-### 🍑 Hi there 
+
+<h2>🍑 Hi there</h2>
 I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/PNUCOLAB%20-F9AB00?style=for-the-badge&logoColor=white"/></a>
  (Computational Omics Laboratory @Pusan National University) - MSc Candidate
 
