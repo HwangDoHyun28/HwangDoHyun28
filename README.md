@@ -20,8 +20,8 @@
 </p>
 
 <h2>🍑 Hi there</h2>
-I’m currently working on <a href="https://pnucolab.com/">PNUCOLAB</a>
- (Computational Omics Laboratory @Pusan National University) - MSc Candidate
+I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
+ (Computational Omics Laboratory in Pusan National University) - MSc Candidate
 
 
 <details> 
