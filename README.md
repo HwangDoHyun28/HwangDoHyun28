@@ -21,22 +21,22 @@
 ------------
 <h2>🍑 Hi there!</h2>
 <!--
-Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/">hwangdohyun28.github.io</a>💎
+Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/" target="_blank">hwangdohyun28.github.io</a>💎
 -->
 Visit my portfolio website! 
-<br>➡ <div style="margin-top: 10px;">💎<a href="https://hwangdohyun28.github.io/"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge"/></a>💎</div>
+<br>➡ <div style="margin-top: 10px;">💎<a href="https://hwangdohyun28.github.io/" target="_blank"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge"/></a>💎</div>
 
-Visit my portfolio website! ➡ 💎<p align="center">
-  <a href="https://hwangdohyun28.github.io/">
+Visit my portfolio website! ➡ <p align="center">
+  💎<a href="https://hwangdohyun28.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io">
-  </a>
-</p>💎
+  </a>💎
+</p>
 <br>
 <br>
 <!--
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc Candidate
 -->
-I’m currently working on ⭐<a href="https://pnucolab.com/"><img src="https://img.shields.io/badge/@PNUCOLAB-000000?style=for-the-badge"/></a>⭐ - MSc Candidate
+I’m currently working on ⭐<a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/@PNUCOLAB-000000?style=for-the-badge"/></a>⭐ - MSc Candidate
 <br>
 <br>
 <details> 
