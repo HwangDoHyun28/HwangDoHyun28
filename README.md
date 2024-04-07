@@ -1,4 +1,10 @@
 <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈⭐%20Dohyun's%20Github%20⭐🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
+</p>
+
+------------
+
+<p align="center">
    <h3 align="center">* * *</h3>
 </p>
 <p align="center">
@@ -14,11 +20,6 @@
     <img height="33.9px" src="https://github.com/HwangDoHyun28/HwangDoHyun28/assets/81740134/1e05357f-8a7a-486c-a4c5-63dd72bae4a6">
 </p>
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈⭐%20Dohyun's%20Github%20⭐🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
-</p>
-
-------------
 <h2>🍑 Hi there!</h2>
 <!--
 Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/" target="_blank">hwangdohyun28.github.io</a>💎
