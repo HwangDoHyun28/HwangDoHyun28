@@ -24,7 +24,7 @@
 Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/" target="_blank">hwangdohyun28.github.io</a>💎
 -->
 
-Visit my portfolio website! 💎<a href="https://hwangdohyun28.github.io/" target="_blank"><img  target="_blank" src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io"></a>💎
+Visit my portfolio website! 💎<a href="https://hwangdohyun28.github.io/" target="_blank"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io"></a>💎
 <br>
 <!--
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc Candidate
