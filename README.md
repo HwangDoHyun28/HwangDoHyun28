@@ -23,7 +23,7 @@
 <!--
 Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/">hwangdohyun28.github.io</a>💎
 -->
-Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-3776AB?style=for-the-badge"/></a>💎
+Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-3776AB?style=flat"/></a>💎
    
 <br>
 <br>
