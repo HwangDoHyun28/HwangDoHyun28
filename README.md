@@ -24,9 +24,6 @@
 Come visit my portfolio website!
 <br>
 <br>
-<a href="https://github.com/HwangDoHyun28/HwangDoHyun28.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HwangDoHyun28&repo=HwangDoHyun28.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-<br>
-<br>
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
  (Computational Omics Laboratory in Pusan National University) - MSc Candidate
 <br>
@@ -84,7 +81,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
    <a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
 -->
 </details>   
-<details open> 
+<details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -108,7 +105,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
 
 </details>
 
-<details open> 
+<details> 
   <summary><h2>🏆 My GitHub Awards</h2></summary>
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C"/></a>
