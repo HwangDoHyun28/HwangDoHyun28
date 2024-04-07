@@ -1,6 +1,5 @@
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Dohyun's%20Github&fontColor=ffffff&fontSize=56&animation=fadeIn" /></a>
+    <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Dohyun's%20Github&fontColor=ffffff&fontSize=56&animation=blink" />
 </p>
 
 ------------
@@ -9,8 +8,7 @@
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Welcome%20to%20Dohyun's%20Github!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Welcome%20to%20Dohyun's%20Github!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
 </p>
 <p align="center">
    <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
