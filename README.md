@@ -43,7 +43,7 @@ I’m currently working on <a href="https://pnucolab.com/" target="_blank"><img 
    <a target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/></a>
-   <a target="_blank"><img src="https://img.shields.io/badge/anaconda-44A833?style=v&logo=anaconda&logoColor=FFFFFF"/></a>
+   <a target="_blank"><img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=FFFFFF"/></a>
    <br>
    <a target="_blank"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF"/></a>
    <a target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF"/></a>
