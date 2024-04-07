@@ -11,8 +11,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Welcome%20to%20Dohyun's%20Github!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-   <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
    <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
+   <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
    <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
    <img height="33.9px" src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg">
 </p>
