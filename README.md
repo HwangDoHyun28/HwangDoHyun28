@@ -29,7 +29,7 @@ Visit my portfolio website! 💎<a href="https://hwangdohyun28.github.io/" targe
 <!--
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc Candidate
 -->
-I’m currently working on ⭐<a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/@PNUCOLAB-000000?style=for-the-badge"/></a>⭐ - MSc Candidate
+I’m currently working on ⭐<a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/@PNUCOLAB-000000?style=for-the-badge"/></a>⭐ ( MSc Candidate )
 <br>
 <br>
 <details> 
