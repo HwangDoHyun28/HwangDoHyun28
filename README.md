@@ -66,9 +66,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a>
    <h3>👨‍💻 Currently Studying & Interested in...</h3>
     <img src="https://skillicons.dev/icons?i=angular,c,cpp,django,css,fastapi,htmx,jquery,mongodb,perl,react,ruby,rust,ts,vue" />
     <br>
-    <img src="https://skillicons.dev/icons?i=aws,babel,bootstrap,bash,docker,dotnet,docker,flask,flutter,kubernetes,nodejs,pkl,pnpm,redhat,vim" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=aws,babel,bootstrap,bash,docker,dotnet,flask,flutter,kubernetes,nodejs,pkl,pnpm,raspberrypi,redhat,vim" />
     <br>
     <img src="https://skillicons.dev/icons?i=autocad,blender" />
     
