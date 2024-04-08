@@ -5,8 +5,7 @@
       &nbsp;&nbsp;✧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|、˜〵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
       &nbsp;&nbsp;&nbsp;&nbsp;じしˍ,)ノ<br>
    </h3>
-</p>
-✧/ᐠ-ꞈ-ᐟ\ 
+</p> 
 <p align="center">
    <h3 align="center">* * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * *</h3>
 </p>
@@ -33,14 +32,16 @@ Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/" t
 <!--<p align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈✨%20Dohyun's%20Github%20✨🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
 </p>-->
-💎 Visit my portfolio website! ฅ^•ﻌ•^ฅ
+💎 Visit my portfolio website! 
 👉 <a href="https://hwangdohyun28.github.io/" target="_blank"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io"></a>
+ฅ^•ﻌ•^ฅ
 <br>
 <!--
 I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc Candidate
 -->
 ⭐ I’m currently working on
 👉 <a href="https://pnucolab.com/" target="_blank"><img src="https://img.shields.io/badge/@PNUCOLAB-000000?style=for-the-badge"/></a>
+✧/ᐠ-ꞈ-ᐟ\
 <br>
 <br>
 <details> 
