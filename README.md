@@ -1,5 +1,5 @@
 <p align="center">
-   <h3 align="center">ฅ^•ﻌ•^ฅ ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ</h3>
+   <h3 align="center">ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ</h3>
 </p>
 <p align="center">
    <h3 align="center">* * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * *</h3>
@@ -27,7 +27,7 @@ Visit my portfolio website! ➡ 💎<a href="https://hwangdohyun28.github.io/" t
 <!--<p align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=🌈✨%20Dohyun's%20Github%20✨🌈&fontColor=ffffff&fontSize=56&animation=twinkling" />
 </p>-->
-💎 Visit my portfolio website!
+💎 Visit my portfolio website! ฅ^•ﻌ•^ฅ
 👉 <a href="https://hwangdohyun28.github.io/" target="_blank"><img src="https://img.shields.io/badge/hwangdohyun28.github.io-000000?style=for-the-badge" alt="hwangdohyun28.github.io"></a>
 <br>
 <!--
