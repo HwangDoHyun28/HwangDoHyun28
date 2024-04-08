@@ -1,9 +1,9 @@
 <p align="center">
    <h3 align="center">ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ</h3>
 </p>
-  ╱|、<br>
-(⩌ˎ ⩌ 7  <br>
- |、˜〵          <br>
+&nbsp;&nbsp;╱|、<br>
+(⩌ˎ&nbsp;⩌&nbsp;7&nbsp;&nbsp;<br>
+&nbsp;|、˜〵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 じしˍ,)ノ<br>
 <p align="center">
    <h3 align="center">* * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * *</h3>
