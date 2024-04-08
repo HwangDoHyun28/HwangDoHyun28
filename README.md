@@ -1,5 +1,5 @@
 <p align="center">
-   <h3 align="center">\\\\\ ฅ^•ﻌ•^ฅ ||| ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ /////</h3>
+   <h3 align="center">ฅ^•ﻌ•^ฅ ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ</h3>
 </p>
 <p align="center">
    <h3 align="center">* * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * *</h3>
