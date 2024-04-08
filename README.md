@@ -1,6 +1,10 @@
 <p align="center">
    <h3 align="center">ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ</h3>
 </p>
+  ╱|、
+(⩌ˎ ⩌ 7  
+ |、˜〵          
+じしˍ,)ノ
 <p align="center">
    <h3 align="center">* * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * *</h3>
 </p>
