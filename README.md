@@ -2,7 +2,7 @@
    <h3 align="center">
       &nbsp;&nbsp;╱|、<br>
       (⩌ˎ&nbsp;⩌&nbsp;7&nbsp;&nbsp;<br>
-      &nbsp;|、˜〵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      &nbsp;&nbsp;|、˜〵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
       じしˍ,)ノ<br>
    </h3>
 </p>
