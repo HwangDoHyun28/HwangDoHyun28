@@ -1,10 +1,12 @@
 <p align="center">
-   <h3 align="center">ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ</h3>
+   <h3 align="center">
+      &nbsp;&nbsp;╱|、<br>
+      (⩌ˎ&nbsp;⩌&nbsp;7&nbsp;&nbsp;<br>
+      &nbsp;|、˜〵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      じしˍ,)ノ<br>
+   </h3>
 </p>
-&nbsp;&nbsp;╱|、<br>
-(⩌ˎ&nbsp;⩌&nbsp;7&nbsp;&nbsp;<br>
-&nbsp;|、˜〵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-じしˍ,)ノ<br>
+ฅ✧/ᐠ-ꞈ-ᐟ\ ฅ
 <p align="center">
    <h3 align="center">* * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * * ~ * * *</h3>
 </p>
