@@ -120,9 +120,6 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc C
   <a href="https://github.com/ashutosh0071/github-readme-activity-graph"><img alt="Dohyun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HwangDoHyun28&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h3>🏆 My GitHub Awards</h3>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dohyun's Github Stats" src="https://github-profile-trophy.vercel.app/?username=HwangDoHyun28&theme=onedark&no-bg=true&rank=-C"/></a>
- </p>
 
 </details>
 
