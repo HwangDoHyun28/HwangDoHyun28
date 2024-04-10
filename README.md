@@ -1,6 +1,6 @@
 <p align="center">
    <h3 align="center">
-      ╱|、<br>
+      ╱|&nbsp;、<br>
       &nbsp;&nbsp;(⩌ˎ&nbsp;⩌&nbsp;7&nbsp;&nbsp;<br>
       &nbsp;&nbsp;✧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|、˜〵&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
       &nbsp;&nbsp;&nbsp;&nbsp;じしˍ,)ノ<br>
