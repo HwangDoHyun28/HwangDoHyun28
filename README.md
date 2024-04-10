@@ -82,7 +82,7 @@ I’m currently working on <a href="https://pnucolab.com/">@PNUCOLAB</a> - MSc C
     -->
     
    <h3>👨‍💻 Currently Studying & Interested in...</h3>
-    <img src="https://skillicons.dev/icons?i=angular,c,cpp,django,css,fastapi,htmx,jquery,mongodb,perl,react,ruby,rust,ts,vue" />
+    <img src="https://skillicons.dev/icons?i=angular,c,cpp,django,fastapi,htmx,jquery,mongodb,perl,react,ruby,rust,ts,vue" />
     <br>
     <img src="https://skillicons.dev/icons?i=aws,babel,bootstrap,bash,docker,dotnet,flask,flutter,kubernetes,nodejs,pkl,pnpm,raspberrypi,redhat,vim" />
     <br>
